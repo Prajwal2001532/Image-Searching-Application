@@ -6,9 +6,7 @@ Image Searching Application works based on the textual data. The Search bar acce
  -API key is used and abided by the guidelines while using the Client-key. 
 
 ## Development
-cd React-project
-npm i install
-npm run dev
+cd React-project --> npm i install  --> npm run dev
 
 ## Node Dependencies of System
 
