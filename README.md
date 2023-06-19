@@ -5,7 +5,7 @@ Image Searching Application works based on the textual data. The Search bar acce
  -This application just retrieves data from the Site using an API.
  -API key is used and abided by the guidelines while using the Client-key. 
 
-##Development
+## Development
 cd React-project
 npm i install
 npm run dev
@@ -22,4 +22,5 @@ npm run dev
 - postman
 
 ## Technologies
-
+- Vite.js
+- ReactJs
